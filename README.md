@@ -1,4 +1,4 @@
-# Number-Recognition
+# Hand Digit Recognition
 Here's a summary of the provided code and the key inferences drawn from it:
 
 1. **Data Loading and Preprocessing:**
